@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Except
+!*/
+!*.c
+!*.txt
+!.gitignore
+!README.md
