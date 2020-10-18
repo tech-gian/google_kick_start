@@ -15,6 +15,7 @@ Google Kick Start
         -Round C: 3040th
         -Round E: 6479th
         -Round F: 3757th
+        -Round G: 5889th
 
 
     The code for each exercise doesn't has comments, because of the limited time of the
