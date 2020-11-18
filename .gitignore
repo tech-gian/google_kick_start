@@ -4,6 +4,8 @@
 # Except
 !*/
 !*.c
+!*.cc
+!*.cpp
 !*.txt
 !.gitignore
 !README.md
