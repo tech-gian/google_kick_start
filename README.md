@@ -23,3 +23,16 @@ Google Kick Start
 
     Also, there are some samples to check that the code is running or not (by checking the
     results with the pronunciations).
+
+# Kick Start 2021
+    The link for the exercises, for all of the rounds: (to be added)
+
+    Rankings for each competition follow:
+        -Round A: 8291th
+
+
+    The code for each exercise doesn't has comments, because of the limited time of the
+    competition. However, it's easy to understand the algorithm and to run the code.
+
+    Also, there are some samples to check that the code is running or not (by checking the
+    results with the pronunciations).
